@@ -16,5 +16,5 @@
 
 ## 📚 Índice
 
-- [Capítulo 00: ¿Qué es Markdown?](#id1)
-- [Capítulo 01: ¿Por qué GitHub usa Markdown?](#id2)
+- [Capítulo 00: ¿Qué es Markdown?](00-Markdown/README.md)
+- [Capítulo 01: ¿Por qué GitHub usa Markdown?](01-GitHub-Markdown/README.md)
