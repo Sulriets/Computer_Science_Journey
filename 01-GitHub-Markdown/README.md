@@ -84,3 +84,9 @@ Markdown desde que nació en 2004 hasta el día de hoy, ya es un estándar, no s
 ## Pregunta para refleccionar: 🤔 Si GitHub hubiese elegido Word para documentar... ¿Cómo sería?
 
 Entonces querido Lector. Después de todo este recorrido, la respuesta ya no parece misteriosa. GitHub eligió Markdown justamente porque permite escribir codigo y documentar sin interrumpir el flujo de trabajo. 
+
+---
+
+⬅️ [Capítulo 00: ¿Qué es Markdown?](../00-Markdown/README.md)
+
+🏠 [Volver a la portada](../README.md)
