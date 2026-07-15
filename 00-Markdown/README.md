@@ -55,6 +55,26 @@ Es como un cambiaformas que puede abrirse en cualquier parte. Un archivo Word (.
 
 Por otro lado, nuestra bestia cambiaformas (.md) es texto. Se puede abrir en bloc de notas, VS Code, Vim, Nano, etc. Es multifacetico! 💥
 
+## Figura 1: Resumen del capítulo 00
+
+```mermaid
+flowchart TB
+
+A[Quiero escribir la documentación de mi código]
+
+A --> B{¿Qué uso?}
+
+B --> C[🌐 HTML]
+B --> D[📝 Markdown]
+
+C --> E[🏷️ Muchas etiquetas]
+C --> F[⌨️ Más tiempo escribiendo el formato]
+
+D --> G[✏️ Pocos símbolos]
+D --> H[💡Más tiempo escribiendo en el contenido]
+```
+
+
 ---
 
 🏠 [Volver a la portada](../README.md)
