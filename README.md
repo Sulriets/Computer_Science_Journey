@@ -20,3 +20,4 @@
 - [Capítulo 01: ¿Por qué GitHub usa Markdown?](GitHub/01-Por-qué-GitHub-usa-Markdown.md)
 - [Capítulo 02: ¿Cómo se escribe en Markdown?](Markdown/02-Cómo-se-escribe-en-Markdown.md)
     - [2.1: Encabezados](Markdown/02.1-Encabezados.md)
+    - [2.2: Párrafos](Markdown/02.2-Párrafos.md)
