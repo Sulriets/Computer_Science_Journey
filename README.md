@@ -16,6 +16,6 @@
 
 ## 📚 Índice
 
-- [Capítulo 00: ¿Qué es Markdown?](00-Markdown/00-Qué-es-Markdown.md)
-- [Capítulo 01: ¿Por qué GitHub usa Markdown?](01-GitHub-Markdown/01-Por-qué-GitHub-usa-Markdown.md)
-- [Capítulo 02: ¿Cómo se escribe en Markdown?](00-Markdown/02-Cómo-se-escribe-en-Markdown.md)
+- [Capítulo 00: ¿Qué es Markdown?](Markdown/00-Qué-es-Markdown.md)
+- [Capítulo 01: ¿Por qué GitHub usa Markdown?](GitHub/01-Por-qué-GitHub-usa-Markdown.md)
+- [Capítulo 02: ¿Cómo se escribe en Markdown?](Markdown/02-Cómo-se-escribe-en-Markdown.md)
