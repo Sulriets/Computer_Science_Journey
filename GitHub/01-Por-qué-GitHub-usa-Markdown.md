@@ -87,8 +87,8 @@ Entonces querido Lector. Después de todo este recorrido, la respuesta ya no par
 
 ---
 
-⬅️ [Capítulo 00: ¿Qué es Markdown?](Markdown/00-Qué-es-Markdown.md)
+⬅️ [Capítulo 00: ¿Qué es Markdown?](../Markdown/00-Qué-es-Markdown.md)
 
 🏠 [Volver a la portada](../README.md)
 
-➡️ [Capítulo 02: ¿Cómo se escribe en Markdown?](Markdown/02-Cómo-se-escribe-en-Markdown.md)
+➡️ [Capítulo 02: ¿Cómo se escribe en Markdown?](../Markdown/02-Cómo-se-escribe-en-Markdown.md)

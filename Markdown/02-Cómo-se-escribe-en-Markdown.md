@@ -32,8 +32,8 @@ Instrucciones: Markdown lo vas a usar siempre para documentar tu progreso. Por l
 Sin más que agregar, vamos a ello.
 
 ---
-⬅️ [Capítulo 01: ¿Por qué GitHub usa Markdown?](GitHub/01-Por-qué-GitHub-usa-Markdown.md)
+⬅️ [Capítulo 01: ¿Por qué GitHub usa Markdown?](../GitHub/01-Por-qué-GitHub-usa-Markdown.md)
 
 🏠 [Volver a la portada](../README.md)
 
-➡️ [2.1: Encabezados](Mardown/02.1-Encabezados.md)
+➡️ [2.1: Encabezados](02.1-Encabezados.md)
