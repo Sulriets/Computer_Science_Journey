@@ -30,3 +30,10 @@ Lo sé, parece demasiado. 😨 Pero no te preocupes. Una vez que escribes dos o 
 Instrucciones: Markdown lo vas a usar siempre para documentar tu progreso. Por lo que te aconsejo dividir tu pantalla usando `Windows` + `→ (Derecha)` o `← (Izquierda)` de tus teclas de navegación y tener tu editor de código y este documento de Markdown visibles.
 
 Sin más que agregar, vamos a ello.
+
+---
+⬅️ [Capítulo 01: ¿Por qué GitHub usa Markdown?](GitHub/01-Por-qué-GitHub-usa-Markdown.md)
+
+🏠 [Volver a la portada](../README.md)
+
+➡️ [2.1: Encabezados](.../02.1-Encabezados.md)
