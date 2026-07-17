@@ -36,4 +36,4 @@ Sin más que agregar, vamos a ello.
 
 🏠 [Volver a la portada](../README.md)
 
-➡️ [2.1: Encabezados](.../02.1-Encabezados.md)
+➡️ [2.1: Encabezados](Mardown/02.1-Encabezados.md)
