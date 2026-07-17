@@ -79,4 +79,4 @@ D --> H[💡Más tiempo escribiendo en el contenido]
 
 🏠 [Volver a la portada](../README.md)
 
-➡️ [Capítulo 01: ¿Por qué GitHub usa Markdown?](GitHub/01-Por-qué-GitHub-usa-Markdown.md)
+➡️ [Capítulo 01: ¿Por qué GitHub usa Markdown?](.../01-Por-qué-GitHub-usa-Markdown.md)
